@@ -23,11 +23,11 @@ pipeline {
           "123": {
             echo '1233'
 
-          }
-          "123sdzfsd": {
-            echo '12asdasdf33'
+          },
+          "123": {
+              echo '1233'
 
-          }
+            }
         )
       }
     }
